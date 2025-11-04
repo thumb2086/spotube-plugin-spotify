@@ -1,12 +1,11 @@
 {
-  "type": "metadata",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "name": "Spotify",
   "author": "Sonic Liberation",
   "description": "Spotube plugin for Spotify metadata",
   "entryPoint": "SpotifyMetadataProviderPlugin",
   "apis": ["webview", "localstorage", "timezone"],
-  "abilities": ["authentication"],
+  "abilities": ["authentication", "metadata"],
   "repository": "https://github.com/sonic-liberation/spotube-plugin-spotify",
-  "pluginApiVersion": "1.0.0"
+  "pluginApiVersion": "2.0.0"
 }
