@@ -5,7 +5,7 @@
   "description": "Spotube plugin for Spotify metadata",
   "entryPoint": "SpotifyMetadataProviderPlugin",
   "apis": ["webview", "localstorage", "timezone"],
-  "abilities": ["authentication", "metadata"],
-  "repository": "https://github.com/sonic-liberation/spotube-plugin-spotify",
-  "pluginApiVersion": "2.0.0"
+  "abilities": ["authentication"],
+  "repository": "https://github.com/thumb2086/spotube-plugin-spotify",
+  "pluginApiVersion": "1.0.0"
 }
